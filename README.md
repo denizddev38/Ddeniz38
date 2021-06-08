@@ -1,15 +1,8 @@
 ### Hi, I’m Deniz Dalsar 🐉
 
-<!--
-**Ddeniz38/Ddeniz38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Member of the coding bootcamps europe, in germany.
+Member of the coding bootcamps europe, in germany
 
 - 🔭 I’m currently working on my career as a Webdeveloper
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning the tasks from my sensei Nico
+- 👯 I’m looking to work with as many Developer as i can
+- ⚡ Fun fact: Developer with a pinch of turkish flavour
