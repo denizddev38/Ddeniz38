@@ -1,7 +1,6 @@
 ### Hi, I’m Deniz Dalsar 🐉
 
-Member of the coding bootcamps europe, in germany
+Former member of the coding bootcamps europe, in germany
 
-- 🔭 I’m currently working on my career as a Webdeveloper
-- 👯 I’m looking to work with as many Developer as i can
+- 🔭 I’m currently working on my career as a Webdeveloper/designer
 - ⚡ Fun fact: Developer with a pinch of turkish flavour
